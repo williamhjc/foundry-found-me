@@ -7,7 +7,9 @@
 A decentralized funding contract that accepts ETH contributions with a minimum USD threshold, powered by Chainlink Price Feeds.
 
 ## Contract Address (Sepolia Testnet)
-**FundMe**: [`0xC3f5e8Eb8aAb1fEA59D3aF9C929A29FcEE98B7D6`](https://sepolia.etherscan.io/address/0xC3f5e8Eb8aAb1fEA59D3aF9C929A29FcEE98B7D6)
+sepolia-eth: [`0xC3f5e8Eb8aAb1fEA59D3aF9C929A29FcEE98B7D6`](https://sepolia.etherscan.io/address/0xC3f5e8Eb8aAb1fEA59D3aF9C929A29FcEE98B7D6)
+
+sepolia-zksync: [0x017577610aCD41303AD7A83fe819a7f976F8Cc13](https://sepolia.explorer.zksync.io/address/0x017577610aCD41303AD7A83fe819a7f976F8Cc13#contract)
 
 ## Features
 - Accepts ETH contributions with a minimum $5 USD equivalent
